@@ -1,0 +1,1 @@
+cd img | convert *.png screens.gif
